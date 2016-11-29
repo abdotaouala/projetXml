@@ -1,0 +1,29 @@
+<?xml version="1.0"?> 
+<?xml-stylesheet type="text/xsl" href="mondial.xsl"?> 
+<mondial>
+    <pays numero="1" name="iran">
+        <population>12000</population>
+        <religion type="islam" nbr="7854" />           
+        <religion type="masihya" nbr="5465" />            
+    </pays>
+    <pays numero="1" name="maroc">
+        <population>120870</population>
+        <religion type="islam" nbr="7854" />           
+        <religion type="masihya" nbr="5465" />            
+    </pays>
+    <pays numero="2" name="usa">
+        <population>12548700</population>
+        <religion type="islam" nbr="7854" />           
+        <religion type="masihya" nbr="5465" />            
+    </pays>
+    <pays numero="3" name="saudi">
+        <population>12000</population>
+        <religion type="islam" nbr="7854" />           
+        <religion type="masihya" nbr="5465" />            
+    </pays>
+    <pays numero="4" name="tuns">
+        <population>1205440</population>
+        <religion type="islam" nbr="7854" />           
+        <religion type="masihya" nbr="5465" />            
+    </pays>
+</mondial>

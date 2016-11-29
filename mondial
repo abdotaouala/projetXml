@@ -1,0 +1,30 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <style>
+                    table {
+                    border: 1px solid black;
+                    border-collapse: collapse;
+                    width:100%;border: 1px solid black;border: 1px solid black;
+                    border-collapse: collapse;
+                    }
+                    th, td{
+                    border: 1px solid black;
+                    border-collapse: collapse;
+                    border: 1px solid black;
+                    border: 1px solid black;
+                    border-collapse: collapse;
+                    }
+                    
+                </style></head>
+   <body>
+      <table>
+         <tr>
+            <th>N</th>
+            <th>Pays</th>
+            <th>Population</th>
+            <th>Relidion</th>
+         </tr>
+      </table>
+   </body>
+</html>
